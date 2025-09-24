@@ -32,5 +32,5 @@ Os exercícios **7 e 8 ainda estão em andamento**, mas preferi entregar até on
 Cada exercício está implementado em um arquivo `.cpp` separado. Para compilar:
 
 ```bash
-g++ -std=c++11 exercicio1.cpp -o exec1
+g++ exercicio1.cpp -o exec1
 ./exec1
